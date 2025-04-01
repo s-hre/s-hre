@@ -1,8 +1,11 @@
 - Hey, im shorebanks or @s-hre
+> Current projects under-development.
+> Apollo, Apollo Nightly, And ArtemisWeb
 - I like coding, modding, and doing things im not supposed to
 - im learning batch currently
-- if you would like to collaborate
-- you can reach me by discord, @s.hre
+- ive learned some python, java, html and css
+- if you would like to collaborate with me
+- feel free reach me by discord, @s.hre
 - my pronouns are they/them
 > [!caution]
 >  taken <3
