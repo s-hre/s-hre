@@ -1,4 +1,5 @@
 - Hey, im shorebanks or @s-hre
+- im a student and i have a job.
 > Current projects under-development.
 > Apollo, Apollo Nightly, And ArtemisWeb
 - I like coding, modding, and doing things im not supposed to
